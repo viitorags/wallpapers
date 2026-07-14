@@ -393,6 +393,13 @@ A curated collection of wallpapers categorized into General, Gruvbox, and One Da
   </tr>
   <tr>
     <td align="center" valign="bottom">
+      <a href="gruvbox/wallhaven-13vym3.jpg">
+        <img src="gruvbox/wallhaven-13vym3.jpg" width="250" alt="wallhaven-13vym3.jpg" />
+      </a>
+      <br />
+      <a href="gruvbox/wallhaven-13vym3.jpg"><code>wallhaven-13vym3.jpg</code></a>
+    </td>
+    <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-3lyrvy.png">
         <img src="gruvbox/wallhaven-3lyrvy.png" width="250" alt="wallhaven-3lyrvy.png" />
       </a>
@@ -406,6 +413,15 @@ A curated collection of wallpapers categorized into General, Gruvbox, and One Da
       <br />
       <a href="gruvbox/wallhaven-5g17l3.jpg"><code>wallhaven-5g17l3.jpg</code></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <a href="gruvbox/wallhaven-5ymlv9.png">
+        <img src="gruvbox/wallhaven-5ymlv9.png" width="250" alt="wallhaven-5ymlv9.png" />
+      </a>
+      <br />
+      <a href="gruvbox/wallhaven-5ymlv9.png"><code>wallhaven-5ymlv9.png</code></a>
+    </td>
     <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-85qlrj.jpg">
         <img src="gruvbox/wallhaven-85qlrj.jpg" width="250" alt="wallhaven-85qlrj.jpg" />
@@ -413,8 +429,6 @@ A curated collection of wallpapers categorized into General, Gruvbox, and One Da
       <br />
       <a href="gruvbox/wallhaven-85qlrj.jpg"><code>wallhaven-85qlrj.jpg</code></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-gpelxl.jpg">
         <img src="gruvbox/wallhaven-gpelxl.jpg" width="250" alt="wallhaven-gpelxl.jpg" />
@@ -422,6 +436,8 @@ A curated collection of wallpapers categorized into General, Gruvbox, and One Da
       <br />
       <a href="gruvbox/wallhaven-gpelxl.jpg"><code>wallhaven-gpelxl.jpg</code></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-gwm977.jpg">
         <img src="gruvbox/wallhaven-gwm977.jpg" width="250" alt="wallhaven-gwm977.jpg" />
@@ -436,14 +452,21 @@ A curated collection of wallpapers categorized into General, Gruvbox, and One Da
       <br />
       <a href="gruvbox/wallhaven-jev6lp.png"><code>wallhaven-jev6lp.png</code></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-ly9jly.png">
         <img src="gruvbox/wallhaven-ly9jly.png" width="250" alt="wallhaven-ly9jly.png" />
       </a>
       <br />
       <a href="gruvbox/wallhaven-ly9jly.png"><code>wallhaven-ly9jly.png</code></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <a href="gruvbox/wallhaven-oxm597.jpg">
+        <img src="gruvbox/wallhaven-oxm597.jpg" width="250" alt="wallhaven-oxm597.jpg" />
+      </a>
+      <br />
+      <a href="gruvbox/wallhaven-oxm597.jpg"><code>wallhaven-oxm597.jpg</code></a>
     </td>
     <td align="center" valign="bottom">
       <a href="gruvbox/wallhaven-pojv79.png">
